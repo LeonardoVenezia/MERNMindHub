@@ -1,0 +1,13 @@
+.home {
+    width: 70px;
+}
+.footer {
+    text-align: center;
+    padding-top: 50px;
+}
+.lista {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding-inline-start: 0;
+}

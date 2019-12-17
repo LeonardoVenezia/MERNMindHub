@@ -1,0 +1,7 @@
+.dropdown img {
+    width: 45px;
+}
+.dropdown{
+    display: flex;
+    justify-content: space-between;
+}
